@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "262985846790",
+    "project_id": "customauthenification",
+    "storage_bucket": "customauthenification.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:262985846790:android:00e6432e24a87bda8d7387",
+        "android_client_info": {
+          "package_name": "com.example.customauthenification"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "262985846790-d1ff9k39ni7c6aakcjmf3g6fp8vqq3hg.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCTYuFoD7QvISmLF3GZ3haFFoOf-wN5SkI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "262985846790-d1ff9k39ni7c6aakcjmf3g6fp8vqq3hg.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
